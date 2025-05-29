@@ -1,4 +1,4 @@
-                                                                     # 🏨 Hostel Student Management System
+ # 🏨 Hostel Student Management System
 
 
 
